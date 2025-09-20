@@ -58,3 +58,4 @@ To create an intuitive, interactive tool that allows stakeholders to:
 * **Demographic Targeting:** `White Collar` customers are, on average, younger than other job segments. This insight can be used to tailor marketing campaigns and digital banking solutions to a younger, high-balance demographic.
 
 ### Screenshots / Demos
+https://github.com/Dhaval-DS/UK-BANK-CUSTOMER-DASHBOARD/blob/86481083d0a431ca2a886f7fb7434369704011f6/Uk-BankCustomer-Dashboard.png
